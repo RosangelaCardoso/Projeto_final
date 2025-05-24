@@ -5,3 +5,43 @@ A DripStore é uma loja virtual de tênis e produtos esportivos, criado para col
 em pratica e implementar um front-end moderno, com react e tailwind CSS. 
 O projeto foi desenvolvido com praticas modernas de desenvolvimento web, e uma experiência de usuário
 fluida e responsiva.
+
+Principais Tecnologias:
+
+⚛️ React - Biblioteca JavaScript para construção de interfaces
+
+🎨 Tailwind CSS - Framework CSS utilitário
+
+⚡ Vite - Build tool e dev server
+
+🧭 React Router - Roteamento para aplicações React
+
+💅 CSS Modules - Estilos com escopo local para componentes
+
+📱 Design Responsivo - Layout adaptável para todos os dispositivos
+
+🖼️ Swiper - Biblioteca para galerias e carrosséis
+
+
+🛠️ Instalação
+Pré-requisitos
+Node.js (versão 14 ou superior)
+
+Node Package Manager (npm)
+
+
+
+📚 Recursos de Aprendizado
+Documentação do React
+
+Documentação do Tailwind CSS
+
+Guia do React Router
+
+Documentação do Vite
+
+👨‍💻 Desenvolvido por:
+
+Rosangela Cardoso
+
+
